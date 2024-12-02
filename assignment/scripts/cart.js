@@ -23,7 +23,9 @@ function empty() {
 empty();
 console.log(`Basket is now ${basket}`);
 
+const maxItems = 5;
 
+  
 
 
 // DO NOT MODIFY
